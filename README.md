@@ -34,6 +34,7 @@ Follow the same steps to create the Test data. But make sure you combine the tra
 Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
+```
 DEVELOPED BY : MEENA S
 REGISTER NO  : 212221240028
 import numpy as np
@@ -119,6 +120,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
+```
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
